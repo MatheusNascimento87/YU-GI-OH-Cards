@@ -10,4 +10,4 @@
 - CSS
 
 ## 🌍 WebSite
-https://matheusnascimento87.github.io/YU-GI-OH-Cards/ 
+https://matheusnascimento87.github.io/YU-GI-OH-Cards-Animation/
